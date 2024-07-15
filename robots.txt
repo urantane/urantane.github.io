@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urantane.github.io/sitemap
+Sitemap: https://urantane.github.io/app/sitemap
+Sitemap: https://urantane.github.io/assets/sitemap
+Sitemap: https://urantane.github.io/css/sitemap
+Sitemap: https://urantane.github.io/includes/sitemap
+Sitemap: https://urantane.github.io/item/sitemap
+Sitemap: https://urantane.github.io/src/sitemap
